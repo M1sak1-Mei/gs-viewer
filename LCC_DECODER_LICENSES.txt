@@ -1,0 +1,115 @@
+LCC2 FORMAT NOTICE
+
+Data Organization Format originated from XGRIDS.
+White Paper and full format license:
+https://github.com/xgrids/LCC2Whitepaper
+
+The LCC2 Data Organization Format is used under authorization from XGRIDS
+pursuant to the White Paper. XGRIDS and its affiliates own and retain all
+intellectual-property and other rights in the Data Organization Format.
+This is an independent reader, not an official XGRIDS version or endorsement.
+No modified data organization format or user dataset is distributed here.
+The White Paper restricts use of the format to train or fine-tune AI models
+competing with XGRIDS products or services without prior written consent.
+Consult its full conditions before redistributing data or derived formats.
+This notice does not replace or expand the White Paper's license.
+
+J SQUASH / SQUOOSH WEBP DECODER
+@jsquash/webp 1.5.0, https://github.com/jamsinclair/jSquash
+Copyright 2020 Google Inc. All Rights Reserved.
+Manual WASM initialization modifications by Jamie Sinclair.
+Licensed under the Apache License, Version 2.0.
+The full Apache-2.0 text is included in THIRD_PARTY_LICENSES.txt alongside
+this file and at https://www.apache.org/licenses/LICENSE-2.0
+
+LIBWEBP
+https://github.com/webmproject/libwebp
+Copyright (c) 2010, Google Inc. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without
+modification, are permitted provided that the following conditions are
+met:
+
+  * Redistributions of source code must retain the above copyright
+    notice, this list of conditions and the following disclaimer.
+
+  * Redistributions in binary form must reproduce the above copyright
+    notice, this list of conditions and the following disclaimer in
+    the documentation and/or other materials provided with the
+    distribution.
+
+  * Neither the name of Google nor the names of its contributors may
+    be used to endorse or promote products derived from this software
+    without specific prior written permission.
+
+THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS
+"AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT
+LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR
+A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT
+HOLDER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL,
+SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT
+LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE,
+DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY
+THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
+(INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE
+OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+NODE-UNRAR-JS 2.0.2
+https://github.com/YuJianrong/node-unrar.js
+Copyright (c) 2017 Jianrong Yu.
+
+Permission is hereby granted, free of charge, to any person obtaining
+a copy of this software and associated documentation files (the
+"Software"), to deal in the Software without restriction, including
+without limitation the rights to use, copy, modify, merge, publish,
+distribute, sublicense, and/or sell copies of the Software, and to
+permit persons to whom the Software is furnished to do so, subject to
+the following conditions:
+
+The above copyright notice and this permission notice shall be
+included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND
+NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE
+LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION
+OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION
+WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+UNRAR - FREE PORTABLE VERSION
+License for use and distribution
+
+The source code of UnRAR utility is freeware. This means:
+
+1. All copyrights to RAR and the utility UnRAR are exclusively
+   owned by the author - Alexander Roshal.
+
+2. UnRAR source code may be used in any software to handle
+   RAR archives without limitations free of charge, but cannot be
+   used to develop RAR (WinRAR) compatible archiver and to
+   re-create RAR compression algorithm, which is proprietary.
+   Distribution of modified UnRAR source code in separate form
+   or as a part of other software is permitted, provided that
+   full text of this paragraph, starting from "UnRAR source code"
+   words, is included in license, or in documentation if license
+   is not available, and in source code comments of resulting package.
+
+3. The UnRAR utility may be freely distributed. It is allowed
+   to distribute UnRAR inside of other software packages.
+
+4. THE RAR ARCHIVER AND THE UnRAR UTILITY ARE DISTRIBUTED "AS IS".
+   NO WARRANTY OF ANY KIND IS EXPRESSED OR IMPLIED. YOU USE AT
+   YOUR OWN RISK. THE AUTHOR WILL NOT BE LIABLE FOR DATA LOSS,
+   DAMAGES, LOSS OF PROFITS OR ANY OTHER KIND OF LOSS WHILE USING
+   OR MISUSING THIS SOFTWARE.
+
+5. Installing and using the UnRAR utility signifies acceptance of
+   these terms and conditions of the license.
+
+6. If you don't agree with terms of the license you must remove
+   UnRAR files from your storage devices and cease to use the
+   utility.
+
+Thank you for your interest in RAR and UnRAR.
+Alexander L. Roshal
